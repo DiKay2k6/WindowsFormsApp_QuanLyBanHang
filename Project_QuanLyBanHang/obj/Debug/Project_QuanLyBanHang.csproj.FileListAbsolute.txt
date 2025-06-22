@@ -4,6 +4,7 @@ D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\bin\
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\bin\Debug\Guna.UI2.dll
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.csproj.AssemblyReference.cache
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Form1.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.frmMain.resources
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Properties.Resources.resources
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.csproj.GenerateResource.cache
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.csproj.CoreCompileInputs.cache
