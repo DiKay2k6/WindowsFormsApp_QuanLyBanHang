@@ -1,6 +1,6 @@
 ﻿namespace Project_QuanLyBanHang.View
 {
-    partial class frmCategoryView01
+    partial class frmTableView
     {
         /// <summary>
         /// Required designer variable.
@@ -67,7 +67,6 @@
             this.btnAdd.PressedState.ImageSize = new System.Drawing.Size(55, 55);
             this.btnAdd.Size = new System.Drawing.Size(64, 54);
             this.btnAdd.TabIndex = 7;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // label2
             // 
@@ -107,7 +106,6 @@
             this.txtSearch.SelectedText = "";
             this.txtSearch.Size = new System.Drawing.Size(318, 48);
             this.txtSearch.TabIndex = 4;
-            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
             // guna2DataGridView1
             // 
@@ -235,7 +233,6 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmCategoryView01";
             this.Text = "frmCategoryView01";
-            this.Load += new System.EventHandler(this.frmCategoryView01_Load);
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

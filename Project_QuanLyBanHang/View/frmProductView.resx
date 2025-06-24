@@ -121,7 +121,7 @@
   <data name="btnAdd.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vgAADr4B6kKxwAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAClkSURBVHhe7d1v
+        vQAADr0BR/uQrQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAClkSURBVHhe7d1v
         kK53WdhxDiSgJFBUQKtg6wtn+oIh0ANixNh97ufkpFHT6agptCqUv8pMZxzHwT/TMUZrK8zgC0enY6sv
         WiyBpDMdB/rGwngUQtz796wJBydKksbRoiSI/0KA5ECSq3MftzZ+905yds/utc/1/L7fmc+Mg5Bz7ZVr
         nzs5Z/fZpz3NzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM
@@ -304,7 +304,7 @@
   <data name="txtSearch.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vgAADr4B6kKxwAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAECdSURBVHhe7d0H
+        vQAADr0BR/uQrQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAECdSURBVHhe7d0H
         uCVFnf5xR0yAmABzxLCKOWfFiLgyzO3qRgdEMI1iTqurroq6hjWsaddV1wiuATFiwDWgLKCuowizp6vv
         XII6iIIokmGYmff/1J3DX/ydGubec/qcU9Xn+3me93kMcLqqT9Xput3VVde4BgAAAJCiA07Rjaue7uR6
         enA5r33KRge6Ri8pvQ4rvT7ovD5aNPpP53XkYmp9zXl9r58TnNfakMLrR1f+76XXlxb/2UZfCP9+P+91
@@ -590,6 +590,15 @@
     <value>True</value>
   </metadata>
   <metadata name="dgvName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dgvPrice.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dgvcatID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dgvcat.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="dgvedit.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

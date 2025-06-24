@@ -1,6 +1,6 @@
 ﻿namespace Project_QuanLyBanHang.Model
 {
-    partial class frmCategoryAdd
+    partial class frmTableAdd
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCategoryAdd));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmTableAdd));
             this.label1 = new System.Windows.Forms.Label();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
@@ -50,9 +50,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(165, 56);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(189, 32);
+            this.label1.Size = new System.Drawing.Size(138, 32);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Thêm danh mục";
+            this.label1.Text = "Chi tiết bàn";
             // 
             // guna2PictureBox1
             // 
@@ -98,7 +98,6 @@
             this.btnClose.Size = new System.Drawing.Size(133, 65);
             this.btnClose.TabIndex = 0;
             this.btnClose.Text = "CLOSE";
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // btnSave
             // 
@@ -159,7 +158,7 @@
             this.txtName.Size = new System.Drawing.Size(296, 48);
             this.txtName.TabIndex = 0;
             // 
-            // frmCategoryAdd
+            // frmTableAdd
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.White;
@@ -172,7 +171,7 @@
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "frmCategoryAdd";
+            this.Name = "frmTableAdd";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmCategoryAdd";
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();

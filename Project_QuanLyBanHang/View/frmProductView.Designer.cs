@@ -1,6 +1,6 @@
 ﻿namespace Project_QuanLyBanHang.View
 {
-    partial class frmCategoryView01
+    partial class frmProductView
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCategoryView01));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmProductView));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -41,6 +41,9 @@
             this.dgvSno = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dgvid = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dgvName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dgvPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dgvcatID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dgvcat = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dgvedit = new System.Windows.Forms.DataGridViewImageColumn();
             this.dgvdel = new System.Windows.Forms.DataGridViewImageColumn();
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).BeginInit();
@@ -67,7 +70,6 @@
             this.btnAdd.PressedState.ImageSize = new System.Drawing.Size(55, 55);
             this.btnAdd.Size = new System.Drawing.Size(64, 54);
             this.btnAdd.TabIndex = 7;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // label2
             // 
@@ -75,9 +77,9 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(35, 38);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(239, 32);
+            this.label2.Size = new System.Drawing.Size(236, 32);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Danh sách danh mục";
+            this.label2.Text = "Danh sách sản phẩm";
             // 
             // label1
             // 
@@ -107,7 +109,6 @@
             this.txtSearch.SelectedText = "";
             this.txtSearch.Size = new System.Drawing.Size(318, 48);
             this.txtSearch.TabIndex = 4;
-            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
             // guna2DataGridView1
             // 
@@ -129,6 +130,9 @@
             this.dgvSno,
             this.dgvid,
             this.dgvName,
+            this.dgvPrice,
+            this.dgvcatID,
+            this.dgvcat,
             this.dgvedit,
             this.dgvdel});
             dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
@@ -195,6 +199,28 @@
             this.dgvName.Name = "dgvName";
             this.dgvName.ReadOnly = true;
             // 
+            // dgvPrice
+            // 
+            this.dgvPrice.HeaderText = "Price";
+            this.dgvPrice.MinimumWidth = 6;
+            this.dgvPrice.Name = "dgvPrice";
+            this.dgvPrice.ReadOnly = true;
+            // 
+            // dgvcatID
+            // 
+            this.dgvcatID.HeaderText = "cID";
+            this.dgvcatID.MinimumWidth = 6;
+            this.dgvcatID.Name = "dgvcatID";
+            this.dgvcatID.ReadOnly = true;
+            this.dgvcatID.Visible = false;
+            // 
+            // dgvcat
+            // 
+            this.dgvcat.HeaderText = "Category";
+            this.dgvcat.MinimumWidth = 6;
+            this.dgvcat.Name = "dgvcat";
+            this.dgvcat.ReadOnly = true;
+            // 
             // dgvedit
             // 
             this.dgvedit.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
@@ -219,7 +245,7 @@
             this.dgvdel.ReadOnly = true;
             this.dgvdel.Width = 50;
             // 
-            // frmCategoryView01
+            // frmProductView
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.White;
@@ -233,9 +259,8 @@
             this.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "frmCategoryView01";
+            this.Name = "frmProductView";
             this.Text = "frmCategoryView01";
-            this.Load += new System.EventHandler(this.frmCategoryView01_Load);
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -253,6 +278,9 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dgvSno;
         private System.Windows.Forms.DataGridViewTextBoxColumn dgvid;
         private System.Windows.Forms.DataGridViewTextBoxColumn dgvName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dgvPrice;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dgvcatID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dgvcat;
         private System.Windows.Forms.DataGridViewImageColumn dgvedit;
         private System.Windows.Forms.DataGridViewImageColumn dgvdel;
     }

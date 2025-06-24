@@ -16,5 +16,20 @@ namespace Project_QuanLyBanHang.View
         {
             InitializeComponent();
         }
+
+        private void frmCategoryView01_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

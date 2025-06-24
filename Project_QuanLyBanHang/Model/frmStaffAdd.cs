@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Project_QuanLyBanHang.Model
 {
-    public partial class frmCategoryAdd: Form
+    public partial class frmStaffAdd: Form
     {
-        public frmCategoryAdd()
+        public frmStaffAdd()
         {
             InitializeComponent();
         }
@@ -20,11 +20,6 @@ namespace Project_QuanLyBanHang.Model
 
         public int id = 0;
         public virtual void btnSave_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        public virtual void btnClose_Click(object sender, EventArgs e)
         {
 
         }
