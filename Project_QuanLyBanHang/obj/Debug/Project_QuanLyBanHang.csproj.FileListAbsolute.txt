@@ -11,3 +11,6 @@ D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_.D4B2D170.Up2Date
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.exe
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.pdb
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.SampleAdd.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.SampleView.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.View.frmCategoryView.resources
