@@ -3,71 +3,83 @@
   "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmproductadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmproductadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmcategoryadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmcategoryadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmcategoryadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmcategoryadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmproductadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmproductadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmproductview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmproductview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmproductview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmcategoryview01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmcategoryview01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmcategoryview01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmcategoryview01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmcategoryview01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmcategoryview01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -75,31 +87,31 @@
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmstaffadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmstaffadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmstaffadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmstaffview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmstaffview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmstaffview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\model\\frmtableadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\model\\frmtableadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\model\\frmtableadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|d:\\l\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\project_quanlybanhang\\project_quanlybanhang\\view\\frmtableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\view\\frmtableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\view\\frmtableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -129,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\sampletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\sampletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|solutionrelative:project_quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A75ACF40-4FB4-4A9F-B2CC-288842128597}|Project_QuanLyBanHang\\Project_QuanLyBanHang.csproj|D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\project_quanlybanhang\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -166,11 +174,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmPOS.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmPOS.cs",
+              "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmPOS.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:27:36.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPOS.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmPOS.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmPOS.cs [Design]",
+              "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:15:21.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmProductAdd.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
+              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmProductAdd.cs [Design]",
+              "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmProductAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:31:01.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Program.cs",
+              "RelativeToolTip": "Project_QuanLyBanHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:10:46.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStaffView.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmStaffView.cs",
+              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmStaffView.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmStaffView.cs [Design]",
+              "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmStaffView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:47:24.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "frmCategoryAdd.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmCategoryAdd.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmCategoryAdd.Designer.cs",
@@ -183,19 +253,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmProductAdd.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
-              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmProductAdd.cs [Design]",
-              "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmProductAdd.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "frmCategoryAdd.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs",
+              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs [Design]",
+              "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:31:01.217Z",
+              "WhenOpened": "2025-06-22T17:54:47.393Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "frmProductAdd.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmProductAdd.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmProductAdd.Designer.cs",
@@ -208,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\frmMain.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\frmMain.cs",
@@ -220,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "frmProductAdd.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
@@ -228,48 +298,22 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmProductAdd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:30:24.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T16:30:24.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmCategoryAdd.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs",
-              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs [Design]",
-              "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:54:47.393Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "frmProductView.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmProductView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmProductView.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmProductView.cs [Design]",
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmProductView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:18:20.285Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-24T16:18:20.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmStaffView.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmStaffView.cs",
-              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmStaffView.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmStaffView.cs [Design]",
-              "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmStaffView.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:47:24.705Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "frmStaffView.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmStaffView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmStaffView.cs",
@@ -282,19 +326,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "frmTableView.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmTableView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmTableView.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmTableView.cs [Design]",
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmTableView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:28:32.493Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-24T15:28:32.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "frmProductView.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmProductView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmProductView.cs",
@@ -302,12 +345,11 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmProductView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:17:38.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T16:17:38.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "frmProductView.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmProductView.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmProductView.Designer.cs",
@@ -315,24 +357,22 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmProductView.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:18:01.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T16:18:01.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "frmStaffAdd.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmStaffAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmStaffAdd.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmStaffAdd.cs [Design]",
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmStaffAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:53:31.463Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-24T15:53:31.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "frmStaffAdd.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmStaffAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmStaffAdd.cs",
@@ -340,12 +380,11 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmStaffAdd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:52:06.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:52:06.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "frmCategoryView01.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmCategoryView01.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmCategoryView01.cs",
@@ -353,12 +392,11 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmCategoryView01.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:11:55.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:11:55.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "frmTableView.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmTableView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmTableView.cs",
@@ -366,24 +404,22 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmTableView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:27:17.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:27:17.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "frmCategoryView01.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmCategoryView01.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmCategoryView01.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmCategoryView01.cs [Design]",
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmCategoryView01.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T14:36:27.259Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-24T14:36:27.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "frmCategoryAdd.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmCategoryAdd.cs",
@@ -396,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "frmTableAdd.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmTableAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmTableAdd.cs",
@@ -404,24 +440,22 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmTableAdd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:33:50.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:33:50.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "frmTableAdd.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmTableAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmTableAdd.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmTableAdd.cs [Design]",
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmTableAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:34:41.503Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-24T15:34:41.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "frmStaffAdd.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmStaffAdd.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmStaffAdd.Designer.cs",
@@ -429,12 +463,11 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmStaffAdd.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:52:29.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:52:29.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "frmStaffView.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmStaffView.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmStaffView.Designer.cs",
@@ -447,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "frmTableAdd.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Model\\frmTableAdd.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Model\\frmTableAdd.Designer.cs",
@@ -455,24 +488,22 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\Model\\frmTableAdd.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:34:09.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:34:09.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "frmCategoryView.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmCategoryView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmCategoryView.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmCategoryView.cs [Design]",
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmCategoryView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:38:47.761Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-24T15:38:47.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "frmTableView.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmTableView.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmTableView.Designer.cs",
@@ -480,12 +511,11 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmTableView.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:28:10.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T15:28:10.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "frmCategoryView.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\View\\frmCategoryView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\View\\frmCategoryView.cs",
@@ -493,12 +523,11 @@
               "RelativeToolTip": "Project_QuanLyBanHang\\View\\frmCategoryView.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T16:28:27.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T16:28:27.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "SampleAdd.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleAdd.cs",
@@ -510,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "SampleView.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleView.cs",
@@ -521,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "SampleView.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleView.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleView.cs",
@@ -533,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "SampleAdd.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleAdd.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleAdd.cs",
@@ -544,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "SampleTest.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleTest.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleTest.cs",
@@ -555,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "SampleTest.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleTest.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleTest.cs",
@@ -567,19 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Program.cs",
-              "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Program.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Program.cs",
-              "RelativeToolTip": "Project_QuanLyBanHang\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T09:10:46.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Resources.resx",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Properties\\Resources.resx",
@@ -592,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "SampleAdd.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\SampleAdd.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\SampleAdd.Designer.cs",
@@ -604,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "frmMain.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\frmMain.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\frmMain.cs",
@@ -617,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Form1.Designer.cs",
@@ -629,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Form1.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Form1.cs",
@@ -641,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh ch\u01B0\u01A1ng tr\u00ECnh\\Project_QuanLyBanHang\\Project_QuanLyBanHang\\Form1.cs",
               "RelativeDocumentMoniker": "Project_QuanLyBanHang\\Form1.cs",

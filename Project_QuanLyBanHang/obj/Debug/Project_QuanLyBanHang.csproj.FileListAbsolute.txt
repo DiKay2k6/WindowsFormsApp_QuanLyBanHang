@@ -14,3 +14,13 @@ D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.SampleAdd.resources
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.SampleView.resources
 D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.View.frmCategoryView.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Model.frmCategoryAdd.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Model.frmPOS.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Model.frmProductAdd.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Model.frmStaffAdd.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.Model.frmTableAdd.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.SampleTest.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.View.frmCategoryView01.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.View.frmProductView.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.View.frmStaffView.resources
+D:\Lập trình chương trình\Project_QuanLyBanHang\Project_QuanLyBanHang\obj\Debug\Project_QuanLyBanHang.View.frmTableView.resources
